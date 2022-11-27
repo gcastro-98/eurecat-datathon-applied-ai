@@ -24,6 +24,9 @@ I used for the implementation
 - [Purple mission: Kaggle notebook](https://www.kaggle.com/gcastro98dev/eurecat-purple)
 - [Green mission: Kaggle notebook](https://www.kaggle.com/gerardcastro/eurecat-green)
 
+Finally, in this link you can find the serialization of (large pretrained) models both for the orange and purple
+missions: [link](https://we.tl/t-PnON5LQ4d0)
+
 ## Inspiration
 Most of the proposed challeges are DL tasks, for they require CV approaches. 
 I was eager to understand how the implementations of several techniques 
