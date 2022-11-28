@@ -18,11 +18,16 @@ a list of the different ``README.md`` for each mission is presented:
 - <a href="https://github.com/gcastro-98/eurecat-datathon-applied-ai/blob/main/black/README.md">Black mission</a>
 
 ### Relevant links
-Also I attach some links that may prove useful: are the Kaggle notebooks 
-I used for the implementation
-- [Orange mission: Kaggle notebook](https://www.kaggle.com/code/gerardcastro/eurecat-orange)
-- [Purple mission: Kaggle notebook](https://www.kaggle.com/gcastro98dev/eurecat-purple)
-- [Green mission: Kaggle notebook](https://www.kaggle.com/gerardcastro/eurecat-green)
+Also I attach some links that may prove useful: 
+- Local notebooks in the repo (I pushed them in this repo even though I developed them in Kaggle):
+  - [Orange mission: local notebook](https://github.com/gcastro-98/eurecat-datathon-applied-ai/blob/main/orange/Eurecat%20-%20Orange.ipynb)
+  - [Purple mission: local notebook](https://github.com/gcastro-98/eurecat-datathon-applied-ai/blob/main/purple/Eurecat%20-%20Purple.ipynb)
+  - [Green mission: local notebook](https://github.com/gcastro-98/eurecat-datathon-applied-ai/blob/main/green/Eurecat%20-%20Green.ipynb)
+- Kaggle notebooks where I developed the code (I needed GPU):
+  - [Orange mission: Kaggle notebook](https://www.kaggle.com/code/gerardcastro/eurecat-orange)
+  - [Purple mission: Kaggle notebook](https://www.kaggle.com/gcastro98dev/eurecat-purple)
+  - [Green mission: Kaggle notebook](https://www.kaggle.com/gerardcastro/eurecat-green)
+
 
 Finally, in this link you can find the serialization of (large pretrained) models both for the orange and purple
 missions: [link](https://we.tl/t-PnON5LQ4d0)
